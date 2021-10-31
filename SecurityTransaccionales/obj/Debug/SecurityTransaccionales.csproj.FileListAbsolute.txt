@@ -1,0 +1,5 @@
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\bin\Debug\SecurityTransaccionales.dll
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\bin\Debug\SecurityTransaccionales.pdb
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Debug\SecurityTransaccionales.csproj.CoreCompileInputs.cache
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Debug\SecurityTransaccionales.dll
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Debug\SecurityTransaccionales.pdb

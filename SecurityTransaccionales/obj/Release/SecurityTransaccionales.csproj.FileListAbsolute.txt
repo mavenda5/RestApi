@@ -1,0 +1,6 @@
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\bin\Release\SecurityTransaccionales.dll
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\bin\Release\SecurityTransaccionales.pdb
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Release\SecurityTransaccionales.csproj.AssemblyReference.cache
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Release\SecurityTransaccionales.csproj.CoreCompileInputs.cache
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Release\SecurityTransaccionales.dll
+E:\Documentos\UNIMINUTO\SISTEMAS TRANSACCIONALES\RestApi\SecurityTransaccionales\obj\Release\SecurityTransaccionales.pdb
